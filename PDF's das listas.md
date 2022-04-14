@@ -1,8 +1,0 @@
-# [PDF's das listas](https://drive.google.com/drive/folders/1Iyss1S1XUVlmY0eWNJe8Di4POWlOzjO6?usp=sharing)
-- [Lista 1.1 - Expressões](https://drive.google.com/file/d/1QIXyU4rMbRWWhklOXReF0RKSKhDaFhJC/view?usp=sharing)
-- [Lista 1.2 - Seleção](https://drive.google.com/file/d/1ufY09Phfma8silxaO9qIF0YVo5n0ILKF/view?usp=sharing)
-- [Lista 1.3 - Repetição](https://drive.google.com/file/d/12KJDh65w_6DX-kPy9JQDoVmi8Ye2ACMH/view?usp=sharing)
-- [Lista 2 - Funções](https://drive.google.com/file/d/15pHSRNLFqGouq4WztB5mlVC4qbICQMfW/view?usp=sharing)
-- [Lista 3 - Vetores e Strings](https://drive.google.com/file/d/1xMqeWH_82hqniKYkS4RsbljLU-2RYg95/view?usp=sharing)
-- [Lista 4 - Matrizes](https://drive.google.com/file/d/16JDmwgKPtUd58pFAxEagegc8VrS61pXx/view?usp=sharing)
-- [Lista 5 - Estruturas e memória](https://drive.google.com/file/d/155OUnxiX5eC_bu7iji_Ku_xBON0XABxH/view?usp=sharing)
