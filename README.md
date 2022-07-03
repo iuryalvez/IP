@@ -8,5 +8,4 @@ Resolvi cerca de 80% de todos os exercícios, então não são todos que estão 
 
 Todos exercícios foram resolvidos em C.
 
-Para acessá-los basta fazer o download do arquivo compactado referente a lista, 
-alguns possuem os executáveis e outros não, mas o código dos exercícios está lá.
+Para acessá-los basta fazer o download do arquivo compactado referente a lista.
