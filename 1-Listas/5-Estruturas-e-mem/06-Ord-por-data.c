@@ -3,7 +3,7 @@
 
 typedef struct {
     int mat, dia, mes, ano;
-    char *nome[200];
+    char nome[200];
 } aluno;
 
 void ordena_alunos(aluno *a, int n);
